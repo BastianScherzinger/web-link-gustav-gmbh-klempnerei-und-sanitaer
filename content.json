@@ -2,29 +2,41 @@
   "site_name": "Muster Handwerk",
   "headline": "Handwerk, auf das Sie sich verlassen können",
   "subline": "Qualität aus Ihrer Region — zuverlässig, sauber und termintreu.",
-  "akzent": "#c8102e",
+  "akzent": "#1565a6",
   "branche": "Handwerk",
   "stadt": "",
   "telefon": "",
   "email": "",
   "adresse": "",
   "ueber_titel": "Über uns",
-  "ueber_text": "Seit Jahren Ihr verlässlicher Partner in der Region. Wir verbinden traditionelles Handwerk mit moderner Ausführung.",
+  "ueber_text": "Seit über zwanzig Jahren ist Link Gustav GmbH ein verlässlicher Partner für alle sanitären Anforderungen in Freiburg und Umgebung. Unsere Expertise reicht von komplexen Installationsaufgaben bis hin zu schnellen Reparaturen. Wir legen Wert auf individuelle Lösungen, Kundenservice und eine langfristige Zusammenarbeit.",
   "leistungen": [
     {
-      "titel": "Beratung",
-      "text": "Persönlich, ehrlich und auf Ihr Projekt zugeschnitten."
+      "titel": "Sanitärinstallationen",
+      "text": "Schnelle und zuverlässige Einrichtung von Wasser- und Abwasseranlagen."
     },
     {
-      "titel": "Ausführung",
-      "text": "Saubere, termintreue Arbeit mit Liebe zum Detail."
+      "titel": "Kaltwassersysteme",
+      "text": "Professionelles Design und Installieren von Kaltwasserversorgungsanlagen."
     },
     {
-      "titel": "Service",
-      "text": "Auch nach Abschluss für Sie da — ein fester Ansprechpartner."
+      "titel": "Warmwasseraufbereitung",
+      "text": "Effiziente Lösungen für Warmwasserheizung und -versorgung."
+    },
+    {
+      "titel": "Klempnerdienstleistungen",
+      "text": "Rapide Reparatur von Wasserrohren und Sanitäranlagen."
+    },
+    {
+      "titel": "Sanitärreparaturen",
+      "text": "Sofortige Behebung von Defekten an Waschbecken, Toiletten usw."
     }
   ],
-  "fotos": [],
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
   "cta_text": "Jetzt unverbindlich anfragen",
   "seo_title": "Muster Handwerk",
   "seo_desc": "Qualität aus Ihrer Region.",
@@ -32,5 +44,63 @@
   "hero_source": "template",
   "hero_refresh_version": 7,
   "hero_image": "/static/img/hero.png",
-  "hero_template": "sanitaer.jpg"
+  "hero_template": "sanitaer.jpg",
+  "impressum": "Impressum\n\nAngaben gemäß § 5 DDG\n\nLink Gustav GmbH Klempnerei und Sanitärtechnik\nZinkmattenstr. 26 79108 Freiburg (Brühl)\n\nVertreten durch:\n[bitte ergänzen]\n\nKontakt:\nTelefon: [bitte ergänzen]\nE-Mail: [bitte ergänzen]\n\nUmsatzsteuer-ID:\nUmsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: [bitte ergänzen]\n\nVerbraucherstreitbeilegung/Universalschlichtungsstelle:\nWir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\n\nHaftung für Inhalte:\nAls Diensteanbieter sind wir gemäß § 7 Abs.1 DDG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.",
+  "datenschutz": "Datenschutzerklärung\n\n1. Datenschutz auf einen Blick\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können.\n\n2. Verantwortliche Stelle\nLink Gustav GmbH Klempnerei und Sanitärtechnik\nZinkmattenstr. 26 79108 Freiburg (Brühl)\nTelefon: [bitte ergänzen]\nE-Mail: [bitte ergänzen]\nAnsprechpartner: [bitte ergänzen]\n\n3. Erfassung von Daten / Kontaktformular\nWenn Sie uns über das Kontaktformular oder per E-Mail kontaktieren, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Anbahnung/Erfüllung eines Vertrags) bzw. Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung). Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n4. Hosting & Server-Log-Dateien\nDer Provider der Seiten erhebt und speichert automatisch Informationen in sogenannten Server-Log-Dateien (Browsertyp, Betriebssystem, Referrer-URL, Hostname, Uhrzeit). Diese Daten sind nicht bestimmten Personen zuordenbar und dienen der technischen Sicherheit.\n\n5. Ihre Rechte\nSie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer Daten, ein Widerspruchsrecht sowie das Recht auf Datenübertragbarkeit (Art. 15–21 DSGVO). Zudem steht Ihnen ein Beschwerderecht bei einer Aufsichtsbehörde zu.\n\n6. SSL-/TLS-Verschlüsselung\nDiese Seite nutzt aus Sicherheitsgründen eine SSL-/TLS-Verschlüsselung.",
+  "agb": "Allgemeine Geschäftsbedingungen (AGB)\n\n1. Geltungsbereich\nDiese AGB gelten für alle Verträge und Leistungen zwischen Link Gustav GmbH Klempnerei und Sanitärtechnik (nachfolgend „Auftragnehmer\") und dem Kunden, soweit nicht ausdrücklich etwas anderes vereinbart wurde.\n\n2. Angebot und Vertragsschluss\nAngebote sind freibleibend. Ein Vertrag kommt durch Auftragsbestätigung bzw. Ausführung der Leistung zustande.\n\n3. Leistungen und Preise\nArt und Umfang der Leistung ergeben sich aus der jeweiligen Vereinbarung. Es gelten die zum Zeitpunkt des Vertragsschlusses vereinbarten Preise zzgl. der gesetzlichen Umsatzsteuer.\n\n4. Zahlungsbedingungen\nRechnungen sind, sofern nicht anders vereinbart, innerhalb von 14 Tagen nach Rechnungsstellung ohne Abzug zur Zahlung fällig.\n\n5. Gewährleistung und Haftung\nEs gelten die gesetzlichen Gewährleistungsregelungen. Die Haftung für leicht fahrlässige Pflichtverletzungen ist ausgeschlossen, soweit keine wesentlichen Vertragspflichten betroffen sind oder Schäden aus der Verletzung von Leben, Körper oder Gesundheit resultieren.\n\n6. Schlussbestimmungen\nEs gilt das Recht der Bundesrepublik Deutschland. Sollte eine Bestimmung unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen unberührt.",
+  "lat": 48.0259338,
+  "lng": 7.854856,
+  "fotos_graded": true,
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Kleiner Auftrag",
+        "ab": 150,
+        "bis": 600
+      },
+      {
+        "name": "Mittleres Projekt",
+        "ab": 600,
+        "bis": 3000
+      },
+      {
+        "name": "Großes Projekt",
+        "ab": 3000,
+        "bis": 15000
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "faq": [
+    {
+      "frage": "Wie lange dauert die Installation einer neuen Dusseinheit?",
+      "antwort": "Die genaue Zeitspanne hängt von der Komplexität ab, aber wir planen normalerweise für einen halben bis ganzen Tag."
+    },
+    {
+      "frage": "Bietet Ihr Unternehmen eine Garantie auf Ihre Arbeit?",
+      "antwort": "Ja, wir bieten eine einjährige Garantie auf alle unsere Arbeiten."
+    },
+    {
+      "frage": "Können Sie auch an Wochenenden arbeiten?",
+      "antwort": "Wir bieten flexible Dienstleistungen und können in besonderen Fällen auch an Wochenenden vor Ort sein."
+    },
+    {
+      "frage": "Wie lange dauert es, bis ich einen Termin bekomme?",
+      "antwort": "Wir bemühen uns um eine schnelle Terminvereinbarung. In der Regel innerhalb von 24 Stunden."
+    },
+    {
+      "frage": "Welche Zahlungsarten werden akzeptiert?",
+      "antwort": "Wir akzeptieren Bargeld, Banküberweisungen und Kreditkarte."
+    }
+  ],
+  "trust": [
+    "Über zwanzig Jahre Erfahrung in Freiburg",
+    "Flexibel an Wochenenden erreichbar",
+    "Einjährige Garantie auf alle Arbeiten"
+  ],
+  "content_enriched": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
 }

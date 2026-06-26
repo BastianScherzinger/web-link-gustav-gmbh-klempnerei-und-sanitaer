@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="680" viewBox="0 0 900 680" role="img" aria-label="Klempner">
   <defs>
     <linearGradient id="ga" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0054ba"/><stop offset="1" stop-color="#002086"/>
+      <stop offset="0" stop-color="#035394"/><stop offset="1" stop-color="#001f60"/>
     </linearGradient>
     <pattern id="da" width="22" height="22" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.3" fill="#ffffff" fill-opacity="0.06"/>
