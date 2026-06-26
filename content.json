@@ -102,5 +102,13 @@
   ],
   "content_enriched": true,
   "about_image": "/static/img/about_ph.svg",
-  "placeholder_images": true
+  "placeholder_images": true,
+  "font_display": "Fraunces",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7,
+  "site_version": "1.0"
 }
